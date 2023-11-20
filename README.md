@@ -1,2 +1,1 @@
-# cra-ts-pack
-cra-ts-pack
+# react-ts-pack
