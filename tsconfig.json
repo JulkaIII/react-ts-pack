@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "types/*": ["lib/types/*"]
+    },
     "outDir": "dist",
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
